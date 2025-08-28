@@ -1,0 +1,7 @@
+{
+  "name": "interviewai-prep-portal",
+  "version": "1.0.0",
+  "description": "Voice-enabled technical mock interview simulator providing instant real-time verbal feedback, code challenge grading, and behavioral assessments.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
